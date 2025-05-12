@@ -29,6 +29,7 @@
 ## 🏆 Certifications & Courses
 
 - ⭐ Appreciation Letter – [NUIT Solution](https://drive.google.com/file/d/157L_ejvhV85tyc9IqikIh8qlh6k7z3gO/view?usp=drive_link)
+- ⭐ 30 Hours Cohort – [GenAI](https://drive.google.com/file/d/12EElLj3vfG789YgIlKGpUaWuGQsqilBu/view?usp=sharing)
 - 📜 Hackathon 2024 – [Saama](https://drive.google.com/file/d/1z0q_5ifPMIiQd3-WCO4oz-wlYEomnMc2/view?usp=drive_link)
 - 💡 Python Bootcamp (100 Days) – [Udemy](https://drive.google.com/file/d/1iNvMYBhDJp5BcGXWM6s7heKydp8WzDVI/view?usp=sharing)
 - 📜 Snowflake – [Udemy](https://drive.google.com/file/d/1b6KRpAjm0oBbS8v8ntthPrsi9YhlSvQH/view?usp=sharing)
