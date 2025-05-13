@@ -18,10 +18,15 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/GenAI-LLMs-7B68EE?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
-  <img src="https://img.shields.io/badge/Qdrant-VectorDB-FF4C61?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAV1BMVEVHcEz///////////////////////////////////////////////////////////////////////////////////////////////////8DeqvWAAAAHXRSTlMAEBAgICQkJioqLjM0NjlLTVBZW1xgZ2qAoaSoz3LUAAAAWklEQVR42k3MRw6AMAxD0TTAavv/f6JlnFFUBZmT+I9RLHdNzRMA9J8JSy8TD9IgE3C0cmrI6SOH1gmZdYXZEm0zFiP4k4v8ds7kD1APXzHYfvWVW0wAAAABJRU5ErkJggg==" alt="Qdrant logo" />
-  <img src="https://img.shields.io/badge/Neo4j-Graph_DB-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/LangChain-Python_Framework-43853D?style=for-the-badge&logo=python&logoColor=white" alt="LangChain" />
+   <img src="https://img.shields.io/badge/LangChain-Python_Framework-43853D?style=for-the-badge&logo=python&logoColor=white" alt="LangChain" />
+   <img src="https://img.shields.io/badge/LangSmith-LLM_Observability-yellowgreen?style=for-the-badge" alt="LangSmith" />
   <img src="https://img.shields.io/badge/LangGraph-Graph%20based%20GenAI%20Apps-orange?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/MCP_Servers-Cloud_Hosting-6A1B9A?style=for-the-badge" alt="MCP Servers" />
+   <img src="https://img.shields.io/badge/Qdrant-VectorDB-FF4C61?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAV1BMVEVHcEz///////////////////////////////////////////////////////////////////////////////////////////////////8DeqvWAAAAHXRSTlMAEBAgICQkJioqLjM0NjlLTVBZW1xgZ2qAoaSoz3LUAAAAWklEQVR42k3MRw6AMAxD0TTAavv/f6JlnFFUBZmT+I9RLHdNzRMA9J8JSy8TD9IgE3C0cmrI6SOH1gmZdYXZEm0zFiP4k4v8ds7kD1APXzHYfvWVW0wAAAABJRU5ErkJggg==" alt="Qdrant logo" />
+  <img src="https://img.shields.io/badge/Neo4j-Graph_DB-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Mem0-GenAI_Memory_System-lightgrey?style=for-the-badge" alt="Mem0" /
+  <img src="https://img.shields.io/badge/A2A-Application_to_Application_Integration-0057B7?style=for-the-badge" alt="A2A" /
+</p>
   <img src="https://img.shields.io/badge/Snowflake-CloudData-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
 </p>
 
