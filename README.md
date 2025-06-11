@@ -38,6 +38,7 @@
 - 📜 Hackathon 2024 – [Saama](https://drive.google.com/file/d/1z0q_5ifPMIiQd3-WCO4oz-wlYEomnMc2/view?usp=drive_link)
 - 💡 Python Bootcamp (100 Days) – [Udemy](https://drive.google.com/file/d/1iNvMYBhDJp5BcGXWM6s7heKydp8WzDVI/view?usp=sharing)
 - 📜 Snowflake – [Udemy](https://drive.google.com/file/d/1b6KRpAjm0oBbS8v8ntthPrsi9YhlSvQH/view?usp=sharing)
+- 📜 SQL Bootcamp – [Udemy](https://drive.google.com/file/d/1ULT1MIUCI9Pb7L2IcfNT2d7FIdlK_pH8/view?usp=sharing)
 - 📜 Advance ReactJs – [Udemy](https://drive.google.com/file/d/1tIVobJGNrLt1cUCGmCsWB4VvGJ5-bour/view?usp=drive_link)
 -  🧠  Generative AI – [Saama](https://drive.google.com/file/d/1y3Wi6BC6iG143v63gPdcaw5_GO_Q-Rkt/view?usp=drive_link)
 - ⭐ Shining Star [Saama](https://drive.google.com/file/d/1rlrofKTW0dxcqy8P_JWHRxK7y6LnDD-e/view?usp=drive_link)
