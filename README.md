@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-🔭 Software Engineer with over 4 Years of Professional Experience in Software Development, Specializing in JavaScript with TypeScript, ReactJs, NextJs, Redux, NodeJs, Python, AWS, SQL, Snowflake, GenAI etc. Committed to delivering high-quality results and make a meaningful contribution and achieve great things.
+🔭 Software Engineer with 5 years of professional experience in developing scalable web applications and backend services. Specialized in JavaScript, TypeScript, React.js, Next.js, Redux, Node.js and Python, with hands-on experience in AWS, SQL and emerging technologies such as Generative AI. Driven by continuous learning and collaboration to foster innovation.
 
 🌐 My Portfolio: [suraj.techboy.in](https://suraj.techboy.in/)
 
@@ -35,14 +35,10 @@
 
 - ⭐ Appreciation Letter – [NUIT Solution](https://drive.google.com/file/d/157L_ejvhV85tyc9IqikIh8qlh6k7z3gO/view?usp=drive_link)
 - ⭐ 30 Hours Cohort – [GenAI](https://drive.google.com/file/d/12EElLj3vfG789YgIlKGpUaWuGQsqilBu/view?usp=sharing)
+- ⭐ Generative AI Essentials for Software Developers – [IBM](https://drive.google.com/file/d/1eGZ60lMfJXCV-vpKUdPwzCTUrdoHQnf9/view?usp=sharing)
 - 📜 Hackathon 2024 – [Saama](https://drive.google.com/file/d/1z0q_5ifPMIiQd3-WCO4oz-wlYEomnMc2/view?usp=drive_link)
 - 💡 Python Bootcamp (100 Days) – [Udemy](https://drive.google.com/file/d/1iNvMYBhDJp5BcGXWM6s7heKydp8WzDVI/view?usp=sharing)
 - 📜 Snowflake – [Udemy](https://drive.google.com/file/d/1b6KRpAjm0oBbS8v8ntthPrsi9YhlSvQH/view?usp=sharing)
-- 📜 SQL Bootcamp – [Udemy](https://drive.google.com/file/d/1ULT1MIUCI9Pb7L2IcfNT2d7FIdlK_pH8/view?usp=sharing)
-- 📜 Advance ReactJs – [Udemy](https://drive.google.com/file/d/1tIVobJGNrLt1cUCGmCsWB4VvGJ5-bour/view?usp=drive_link)
--  🧠  Generative AI – [Saama](https://drive.google.com/file/d/1y3Wi6BC6iG143v63gPdcaw5_GO_Q-Rkt/view?usp=drive_link)
-- ⭐ Shining Star [Saama](https://drive.google.com/file/d/1rlrofKTW0dxcqy8P_JWHRxK7y6LnDD-e/view?usp=drive_link)
-- 📜 One Year Appreciation [Saama](https://drive.google.com/file/d/1qCoiRvKqGZTvDnY_x3FDekxmm4eUWsH2/view?usp=sharing)
 
 ---
 
