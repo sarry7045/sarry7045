@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Suraj Yadav👋</h1>
-<h3 align="center">Fullstack Engineer | AI Engineer 🚀 </h3>
+<h3 align="center">FullStack Engineer | AI Engineer 🚀 </h3>
 
 ---
 
