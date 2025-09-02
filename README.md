@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-🔭 Software Engineer with 5 years of professional experience in developing scalable web applications and backend services. Specialized in JavaScript, Python, TypeScript, React.js, Next.js, Node.js with hands-on experience in AWS, SQL and emerging technologies such as Generative AI. Driven by continuous learning and collaboration to foster innovation.
+🔭 Software Engineer with 5 years of professional experience in developing scalable web applications and backend services. Specialized in JavaScript with TypeScript, Python, React.js, Next.js, FastAPI, Node.js and Snowflake with hands-on experience in AWS, SQL and emerging technologies such as Generative AI. Driven by continuous learning and collaboration to foster innovation..
 
 🌐 My Portfolio: [suraj.techboy.in](https://suraj.techboy.in/)
 
