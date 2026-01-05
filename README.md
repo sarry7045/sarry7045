@@ -14,7 +14,7 @@
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,mysql,docker,aws,fastapi,snowflake,bedrock"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,mysql,docker,aws,fastapi"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/GenAI-LLMs-7B68EE?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
