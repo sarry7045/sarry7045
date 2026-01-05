@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-🔭 Software Engineer with 5 years of professional experience in developing scalable web applications and backend services. Specialized in JavaScript with TypeScript, Python, React.js, Next.js, FastAPI, Node.js and Snowflake with hands-on experience in AWS, SQL and emerging technologies such as Generative AI. Driven by continuous learning and collaboration to foster innovation..
+🔭 Software Engineer with 5+ years of professional experience in developing scalable web applications and backend services. Specialized in JavaScript with TypeScript, Python, React.js, Next.js, FastAPI, Node.js, Bedrock and Snowflake with hands-on experience in AWS, SQL and emerging technologies such as Generative AI. Driven by continuous learning and collaboration to foster innovation..
 
 🌐 My Portfolio: [suraj.techboy.in](https://suraj.techboy.in/)
 
@@ -14,7 +14,7 @@
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,mysql,docker,aws,fastapi" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,mysql,docker,aws,fastapi,snowflake,bedrock"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/GenAI-LLMs-7B68EE?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
